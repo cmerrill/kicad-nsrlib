@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 2450BM14E0003
+D NRF51822 BTLE 2.4GHz Balun
+K BTLE 2.4GHz Balun NRF51822
+$ENDCMP
+#
+#End Doc Library
